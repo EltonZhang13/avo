@@ -1,0 +1,21 @@
+#oatmeal {
+	margin: 5px;
+	padding: 5px 5px 5px 4px;
+	background: none;
+}
+
+#yogurt {
+	margin: 5px 5px 5px 33px;
+	padding: 5px;
+	background: none;
+}
+
+#cereal {
+	margin: 5px 5px 5px 33px;
+	padding: 5px;
+	background: none;
+}
+
+.help {
+	margin: 0px 0px 0px -15px;
+}
