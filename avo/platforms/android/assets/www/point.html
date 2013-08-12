@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+	<meta charset="utf-8" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
+	<link rel="stylesheet" type="text/css" href="css/point.css">
+	<title>Point Reward</title>
+	<script type="text/javascript" src="js/TypingText.js"></script>
+
+</head>
+
+<body>
+
+	<div class="nav">
+		<ul>
+			<li class="Avo_Status"><a href="home.html">Home</a></li>
+			<li class="Food_History"><a href="food_history.html">Food History</a></li>
+		</ul>
+	</div>
+
+	<img src="avos/Avo(m).png">
+	<p class="triangle-border top" id="test">You have earned 4 points for the first time, from a quiz. You can now use the points to keep me healthy, fuller for longer, or save them for a rainy day. So what will you do?</p>
+	<div>
+		<p class="meters">Health</p><meter value="10" min="0" max="10"></meter>
+		<p class="meters">Hunger</p><meter value="4"  min="0" max="10"></meter> 
+    </div>
+    
+    <script type="text/javascript">
+    	new TypingText (document.getElementById("test"), 35);
+    	TypingText.runAll();
+    </script>	
+</body>
+</html>

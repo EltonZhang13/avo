@@ -1,21 +1,95 @@
-#oatmeal {
-	margin: 5px;
-	padding: 5px 5px 5px 4px;
-	background: none;
+body {
+	background-color: #E0E0E0;
 }
 
-#yogurt {
-	margin: 5px 5px 5px 33px;
-	padding: 5px;
-	background: none;
+.choices {
+	-webkit-column-count: 3;
+	-webkit-column-gap: 2em;
+	-webkit-column-rule-width: 2px;
+	-webkit-column-rule-color: #070641;
 }
 
 #cereal {
-	margin: 5px 5px 5px 33px;
-	padding: 5px;
-	background: none;
+	margin: 0 32%;
+	color: red;
 }
 
-.help {
-	margin: 0px 0px 0px -15px;
+.labels {
+	margin: 0 26%;
+	color: red;
 }
+
+.food {
+	width: 60px;
+	margin: 5% 25%;
+}
+
+#avo {
+	width: 50%;
+	margin: 0 25% 10% ;
+	display: block;
+}
+
+meter {
+	width: 50%;
+	margin: 0 25% 1em;
+	display: inline;
+}
+
+.meters {
+	text-align: center;
+	margin: 0px 0 1em;
+	font-weight: bold;
+}
+
+.triangle-obtuse:before {
+	content: "";
+	position: absolute;
+	bottom: -20px;
+	left: 60px;
+	border: 0;
+	border-right-width: 30px;
+	border-bottom-width: 20px;
+	border-style: solid;
+	border-color: transparent #c81e2b;
+	display: block;
+	width: 0;
+}
+
+.triangle-obtuse {
+	position: relative;
+	padding: 15px;
+	width: 50%;
+	margin: 60px auto;
+	font-family: Cambria;
+	font-size: 1.5em;
+	color: #fff;
+	background: #c81e2b;
+	background: -webkit-gradient(linear, 0 0, 0 100%, from(#f04349), to(#c81e2b));
+	background: -moz-linear-gradient(#f04349, #c81e2b);
+	background: -o-linear-gradient(#f04349, #c81e2b);
+	background: linear-gradient(#f04349, #c81e2b);
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+}
+
+.triangle-obtuse:after {
+	content: "";
+	position: absolute;
+	bottom: -20px;
+	left: 80px;
+	border: 0;
+	border-right-width: 10px;
+	border-bottom-width: 20px;
+	border-style: solid;
+	border-color: transparent #E0E0E0;
+	display: block;
+	width: 0;
+}
+
+/*@media only screen and (min-width: 481px) {
+	.labels {
+		margin: 0 30%;
+	}
+} 

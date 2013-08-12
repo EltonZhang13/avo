@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+	<meta charset="utf-8" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
+	<link rel="stylesheet" type="text/css" href="css/history.css">
+	<title>Food History</title>
+	<script type="text/javascript" src="js/TypingText.js"></script>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+	<script type="text/javascript">
+		 $(function() {
+				/* For zebra striping */
+		        $("table tr:nth-child(odd)").addClass("odd-row");
+				/* For cell text alignment */
+				$("table td:first-child, table th:first-child").addClass("first");
+				/* For removing the last border */
+				$("table td:last-child, table th:last-child").addClass("last");
+		});
+</script>
+</head>
+
+<body>
+
+	<div class="nav">
+		<ul>
+			<li class="Avo_Status"><a href="home.html">Home</a></li>
+			<li class="Food_History"><a href="food_history.html">Food History</a></li>
+			<li class="Bonus"><a href="quiz.html">Bonus Points</a></li>
+		</ul>
+	</div>	
+
+	<table cellspacing="0">
+		<tr>
+			<th>Food</th>
+			<th>Hunger Level</th>
+			<th>Health Level</th>
+		</tr>
+		<tr>
+			<td class="Food">Cereal</td>
+			<td class="Hunger">25</td>
+			<td class="Health">15</td>
+		</tr>
+		<tr>
+			<td class="Food">Yogurt</td>
+			<td class="Hunger">20</td>
+			<td class="Health">30</td>
+		</tr>
+		<tr>
+			<td class="Food">Oatmeal</td>
+			<td class="Hunger">30</td>
+			<td class="Health">35</td>
+		</tr>
+	</table>
+	<blockquote class="example-obtuse" id="msg">
+		<p id="look">Look at all the foods that you've helped me choose. I hope you continue helping me choose, otherwise I'd get pretty hungry.</p>
+	</blockquote>
+	
+	<img src="avos/avo(m).png">
+	<p class="meters">Health</p><meter value="10" min="0" max="10"></meter><br>
+    <p class="meters">Hunger</p><meter value="4"  min="0" max="10"></meter>
+
+    <script type="text/javascript">
+    	new TypingText (document.getElementById("msg"), 35);
+    	TypingText.runAll();
+    </script>
+</body>
+</html>

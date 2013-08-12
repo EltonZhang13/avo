@@ -1,0 +1,69 @@
+.headline {
+	width:: 80%;
+	margin: 1em;
+	border: 4px solid;
+	border-radius: 15px;
+	padding: 1em;
+}
+
+h1 {
+	color: #343434;
+	font-size: 3em;
+	font-family: "Ultra";
+	font-weight: normal;
+	width: 80%;
+	margin: 1px auto;
+	padding: 2px;
+	text-align: center;
+	text-shadow: 0 2px white, 0 3px #777;
+}
+
+/*img {
+	display: inline;
+}
+*/
+p {
+	width: 60%;
+	padding: 1px;
+	margin: 1px auto;
+	text-align: center;
+	font-weight: normal;
+	font-size: 1.5em;
+	font-family: "Ultra";
+}
+
+#buttonGroup {
+	padding: 1em;
+	margin: 2em auto;
+}
+
+.choice {
+	padding: 1em 0;
+	margin: 10% 10%;
+}
+
+a{
+	text-decoration: none;
+	color: #FFF;
+}
+
+button {
+	width: 20%;
+	margin: 10% 40%;
+	padding: 10px 15px;
+	background: #4479BA;
+	color: #FFF;
+	border-radius: 6px;
+    border: solid 1px #20538D;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.4);
+    -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.4), 0 1px 1px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.4), 0 1px 1px rgba(0, 0, 0, 0.2);
+}
+
+body {
+	background-color: #F8F8F8;
+}
+
+img {
+	margin: 0 7% 0;
+}
