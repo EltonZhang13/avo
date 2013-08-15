@@ -25,11 +25,13 @@ C:\Users\user\avo\avo\platforms\android\assets\www\avos \
 C:\Users\user\avo\avo\platforms\android\assets\www\beware.html \
 C:\Users\user\avo\avo\platforms\android\assets\www\choice-cereal.html \
 C:\Users\user\avo\avo\platforms\android\assets\www\choice-oatmeal.html \
+C:\Users\user\avo\avo\platforms\android\assets\www\choice-orange.html \
 C:\Users\user\avo\avo\platforms\android\assets\www\choose_brand.html \
 C:\Users\user\avo\avo\platforms\android\assets\www\config.xml \
 C:\Users\user\avo\avo\platforms\android\assets\www\cordova.js \
 C:\Users\user\avo\avo\platforms\android\assets\www\cordova_plugins.js \
 C:\Users\user\avo\avo\platforms\android\assets\www\css \
+C:\Users\user\avo\avo\platforms\android\assets\www\drink.html \
 C:\Users\user\avo\avo\platforms\android\assets\www\foods \
 C:\Users\user\avo\avo\platforms\android\assets\www\food_history.html \
 C:\Users\user\avo\avo\platforms\android\assets\www\help \
@@ -37,7 +39,10 @@ C:\Users\user\avo\avo\platforms\android\assets\www\home.html \
 C:\Users\user\avo\avo\platforms\android\assets\www\img \
 C:\Users\user\avo\avo\platforms\android\assets\www\index.html \
 C:\Users\user\avo\avo\platforms\android\assets\www\js \
+C:\Users\user\avo\avo\platforms\android\assets\www\leadin.html \
 C:\Users\user\avo\avo\platforms\android\assets\www\main.html \
+C:\Users\user\avo\avo\platforms\android\assets\www\note.html \
+C:\Users\user\avo\avo\platforms\android\assets\www\Note2.html \
 C:\Users\user\avo\avo\platforms\android\assets\www\phonegap.js \
 C:\Users\user\avo\avo\platforms\android\assets\www\point.html \
 C:\Users\user\avo\avo\platforms\android\assets\www\Q1.html \
@@ -52,31 +57,63 @@ C:\Users\user\avo\avo\platforms\android\assets\www\results2.html \
 C:\Users\user\avo\avo\platforms\android\assets\www\spec \
 C:\Users\user\avo\avo\platforms\android\assets\www\spec.html \
 C:\Users\user\avo\avo\platforms\android\assets\www\avos\Avo(m).png \
+C:\Users\user\avo\avo\platforms\android\assets\www\avos\Avo(p).png \
 C:\Users\user\avo\avo\platforms\android\assets\www\avos\Avo(s).png \
+C:\Users\user\avo\avo\platforms\android\assets\www\avos\Avo(t).png \
 C:\Users\user\avo\avo\platforms\android\assets\www\avos\Avo(xs).png \
+C:\Users\user\avo\avo\platforms\android\assets\www\avos\Avo(xxxs).png \
+C:\Users\user\avo\avo\platforms\android\assets\www\avos\Avo-Large.png \
 C:\Users\user\avo\avo\platforms\android\assets\www\avos\Avo.png \
 C:\Users\user\avo\avo\platforms\android\assets\www\avos\avo_sad.png \
-C:\Users\user\avo\avo\platforms\android\assets\www\css\beware.css \
-C:\Users\user\avo\avo\platforms\android\assets\www\css\choice-cereal.css \
-C:\Users\user\avo\avo\platforms\android\assets\www\css\choice-oatmeal.css \
-C:\Users\user\avo\avo\platforms\android\assets\www\css\choose_brand.css \
-C:\Users\user\avo\avo\platforms\android\assets\www\css\history.css \
-C:\Users\user\avo\avo\platforms\android\assets\www\css\home.css \
-C:\Users\user\avo\avo\platforms\android\assets\www\css\index.css \
-C:\Users\user\avo\avo\platforms\android\assets\www\css\layout.css \
-C:\Users\user\avo\avo\platforms\android\assets\www\css\main.css \
-C:\Users\user\avo\avo\platforms\android\assets\www\css\point.css \
-C:\Users\user\avo\avo\platforms\android\assets\www\css\quiz.css \
-C:\Users\user\avo\avo\platforms\android\assets\www\css\results.css \
+C:\Users\user\avo\avo\platforms\android\assets\www\css\action-bars.css \
+C:\Users\user\avo\avo\platforms\android\assets\www\css\base.css \
+C:\Users\user\avo\avo\platforms\android\assets\www\css\buttons.css \
+C:\Users\user\avo\avo\platforms\android\assets\www\css\chevrons.css \
+C:\Users\user\avo\avo\platforms\android\assets\www\css\content.css \
+C:\Users\user\avo\avo\platforms\android\assets\www\css\forms.css \
+C:\Users\user\avo\avo\platforms\android\assets\www\css\icomoon.css \
+C:\Users\user\avo\avo\platforms\android\assets\www\css\lists.css \
+C:\Users\user\avo\avo\platforms\android\assets\www\css\My Css \
+C:\Users\user\avo\avo\platforms\android\assets\www\css\sliders.css \
+C:\Users\user\avo\avo\platforms\android\assets\www\css\spinners.css \
+C:\Users\user\avo\avo\platforms\android\assets\www\css\stack.css \
+C:\Users\user\avo\avo\platforms\android\assets\www\css\tabs.css \
+C:\Users\user\avo\avo\platforms\android\assets\www\css\typography.css \
+C:\Users\user\avo\avo\platforms\android\assets\www\css\My Css\app.css \
+C:\Users\user\avo\avo\platforms\android\assets\www\css\My Css\beware.css \
+C:\Users\user\avo\avo\platforms\android\assets\www\css\My Css\choice-cereal.css \
+C:\Users\user\avo\avo\platforms\android\assets\www\css\My Css\choice-oatmeal.css \
+C:\Users\user\avo\avo\platforms\android\assets\www\css\My Css\choice-orange.css \
+C:\Users\user\avo\avo\platforms\android\assets\www\css\My Css\choose_brand.css \
+C:\Users\user\avo\avo\platforms\android\assets\www\css\My Css\history.css \
+C:\Users\user\avo\avo\platforms\android\assets\www\css\My Css\home.css \
+C:\Users\user\avo\avo\platforms\android\assets\www\css\My Css\index.css \
+C:\Users\user\avo\avo\platforms\android\assets\www\css\My Css\layout.css \
+C:\Users\user\avo\avo\platforms\android\assets\www\css\My Css\main.css \
+C:\Users\user\avo\avo\platforms\android\assets\www\css\My Css\point.css \
+C:\Users\user\avo\avo\platforms\android\assets\www\css\My Css\quiz.css \
+C:\Users\user\avo\avo\platforms\android\assets\www\css\My Css\ratchet.css \
+C:\Users\user\avo\avo\platforms\android\assets\www\css\My Css\results.css \
 C:\Users\user\avo\avo\platforms\android\assets\www\foods\104_0729.jpg \
 C:\Users\user\avo\avo\platforms\android\assets\www\foods\bowl_of_cereal.jpg \
 C:\Users\user\avo\avo\platforms\android\assets\www\foods\cereal.png \
 C:\Users\user\avo\avo\platforms\android\assets\www\foods\greek-yogurt.jpg \
+C:\Users\user\avo\avo\platforms\android\assets\www\foods\milk.jpg \
+C:\Users\user\avo\avo\platforms\android\assets\www\foods\milk.png \
 C:\Users\user\avo\avo\platforms\android\assets\www\foods\oats.png \
+C:\Users\user\avo\avo\platforms\android\assets\www\foods\orange.jpg \
+C:\Users\user\avo\avo\platforms\android\assets\www\foods\orange.png \
+C:\Users\user\avo\avo\platforms\android\assets\www\foods\shake.jpg \
+C:\Users\user\avo\avo\platforms\android\assets\www\foods\shake.png \
 C:\Users\user\avo\avo\platforms\android\assets\www\foods\steel-cut-oats.jpg \
 C:\Users\user\avo\avo\platforms\android\assets\www\foods\yogurt.png \
+C:\Users\user\avo\avo\platforms\android\assets\www\help\bg.jpg \
+C:\Users\user\avo\avo\platforms\android\assets\www\help\bg1.jpg \
+C:\Users\user\avo\avo\platforms\android\assets\www\help\blue-bg.jpeg \
 C:\Users\user\avo\avo\platforms\android\assets\www\help\GnrRqlh.jpg \
+C:\Users\user\avo\avo\platforms\android\assets\www\help\green-bg.jpeg \
 C:\Users\user\avo\avo\platforms\android\assets\www\help\help.png \
+C:\Users\user\avo\avo\platforms\android\assets\www\help\red-bg.jpeg \
 C:\Users\user\avo\avo\platforms\android\assets\www\img\beach.jpg \
 C:\Users\user\avo\avo\platforms\android\assets\www\img\crunch.jpg \
 C:\Users\user\avo\avo\platforms\android\assets\www\img\crunch.png \
@@ -88,15 +125,10 @@ C:\Users\user\avo\avo\platforms\android\assets\www\img\miniwheat.png \
 C:\Users\user\avo\avo\platforms\android\assets\www\img\post.png \
 C:\Users\user\avo\avo\platforms\android\assets\www\img\post_logo.png \
 C:\Users\user\avo\avo\platforms\android\assets\www\img\sugar1.jpg \
+C:\Users\user\avo\avo\platforms\android\assets\www\img\tux.svg \
 C:\Users\user\avo\avo\platforms\android\assets\www\js\index.js \
-C:\Users\user\avo\avo\platforms\android\assets\www\js\jquery.event.drag-2.2 \
-C:\Users\user\avo\avo\platforms\android\assets\www\js\jquery.event.drag-2.2.js \
-C:\Users\user\avo\avo\platforms\android\assets\www\js\jquery.event.drag.live-2.2.js \
-C:\Users\user\avo\avo\platforms\android\assets\www\js\jquery.mobile-1.3.2.min.js \
-C:\Users\user\avo\avo\platforms\android\assets\www\js\jquery.ui.touch-punch.min.js \
-C:\Users\user\avo\avo\platforms\android\assets\www\js\jsapi.js \
-C:\Users\user\avo\avo\platforms\android\assets\www\js\TypingText.js \
-C:\Users\user\avo\avo\platforms\android\assets\www\js\jquery.event.drag-2.2\resources.htm \
+C:\Users\user\avo\avo\platforms\android\assets\www\js\push.js \
+C:\Users\user\avo\avo\platforms\android\assets\www\js\ratchet.js \
 C:\Users\user\avo\avo\platforms\android\assets\www\res\icon \
 C:\Users\user\avo\avo\platforms\android\assets\www\res\screen \
 C:\Users\user\avo\avo\platforms\android\assets\www\res\icon\android \

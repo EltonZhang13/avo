@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
+    <link rel="stylesheet" type="text/css" href="css/main.css" />
+    <title>Avo</title>
+    <script type="text/javascript" src="js/TypingText.js"></script>
+</head>
+
+<body>
+    <div class="choices">
+        <!--<div class="food">-->
+            <a href="choice-orange.html"><img src="foods/orange.png" alt="orange" class="food"></img></a>
+            <p class="labels">Orange Juice</p>
+            <!--<img src="help/help.png" class="help"></img> -->
+            
+            
+            <a href="choice-milk.html"><img src="foods/milk.png" alt="milk" class="food"></img></a>
+            <p class="labels">Dairy Milk</p>
+            <!--<img src="help/help.png" class="help"></img> -->
+
+            <img src="foods/shake.png" alt="yogurt" class="food"></img>
+            <p class="labels">Breakfast Shake</p>
+            <!--<img src="help/help.png" class="help"></img> -->
+        <!--</div>-->
+    </div> 
+
+    <div class="avo-parts">
+        <p class="triangle-obtuse" id="second_text">Now that I know what I'm eating, what should I wash it down with?</p>
+        <img src="avos/Avo.png" id="avo"></img>
+    </div>
+
+    <p class="meters">Health</p><meter value="10" min="0" max="10"></meter><br>
+    <p class="meters">Hunger</p><meter value="0"></meter>
+
+    <script type="text/javascript">
+        new TypingText (document.getElementById("second_text"), 35)
+        TypingText.runAll();
+    </script>
+</body>
+</html>
